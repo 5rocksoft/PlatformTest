@@ -1,0 +1,31 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+# Unity ignore folders & files
+
+**/Library/
+**/obj/
+**/Temp/
+**/Build
+**/Packages
+**/.vs
+
+*.csproj
+*.sln
+*.userprefs
+ProjectBuilder.*
+
+# Package & Apk files
+
+*.7z
+*.gz
+*.rar
+*.tar
+*.zip
+*.apk
+*.alz
+*.egg
+
+# Logs & DB
+
+Thumbs.db
+*.log
