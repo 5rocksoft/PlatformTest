@@ -24,6 +24,7 @@ ProjectBuilder.*
 *.apk
 *.alz
 *.egg
+*.aab
 
 # Logs & DB
 
