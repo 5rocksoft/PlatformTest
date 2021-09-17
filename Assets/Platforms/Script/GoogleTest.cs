@@ -113,5 +113,12 @@ public class GoogleTest : MonoBehaviour
 
         this.GetGooleAuthToken();
     }
-#endregion
+
+    public void OnClickBuy()
+    {
+        Debug.unityLogger.Log("OnClickBuy");
+
+        //IAPManager.Instance.BuyConsumable("SH0000");
+    }
+    #endregion
 }
