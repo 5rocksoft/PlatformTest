@@ -118,7 +118,7 @@ public class GoogleTest : MonoBehaviour
     {
         Debug.unityLogger.Log("OnClickBuy");
 
-        //IAPManager.Instance.BuyConsumable("SH0000");
+        IAPManager.Instance.BuyConsumable("SH0000");
     }
     #endregion
 }

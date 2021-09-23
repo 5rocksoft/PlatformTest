@@ -6,7 +6,6 @@
 **/obj/
 **/Temp/
 **/Build
-**/Packages
 **/.vs
 
 *.csproj
